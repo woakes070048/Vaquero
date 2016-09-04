@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+env/
+__pycache__/
+.sass-cache/
+*.css.map
+*.css
+*.pyc
+config.py

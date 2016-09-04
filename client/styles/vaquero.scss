@@ -1,0 +1,15 @@
+/*
+Third Party SASS Imports
+*/
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "paper_variables";
+@import "paper";
+
+
+/*
+Vaquero SASS Imports
+*/
+@import "variables";
+@import "general";
+@import "navbar";
+@import "sidenav";
